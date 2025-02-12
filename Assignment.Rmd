@@ -1,0 +1,43 @@
+---
+title: "Annotated Bibliography"
+bibliography: references.json
+#csl: chicago-syllabus.csl
+suppress-bibliography: true
+link-citations: false
+citations-hover: false
+---
+
+# Reference1
+
+@chouldechovaFairPredictionDisparate2016
+
+-   Summary
+
+This paper discusses recidivism prediction instruments (RPIs). These are algorithms that assess the likelihood of a defendant reoffending. The paper discusses if the algorithms are fair towards both black and white defendants and if imbalanced error rates are a result of the possible unfairness. 
+
+-   Reliability and relationship to the topic
+
+The author is the Associate Professor of Statistics and public policy at Carnegie Mellon University and a Principal Researcher for Fairness, Accountability, Transparency and Ethics for Microsoft Research NYC. She seems qualified to discuss and debate on the subject.
+
+-   Missing pieces
+
+    -   I do not understand algorithms enough to comprehend much of the article 
+
+    -   I do not know enough about crime tendencies and recidivism rates to know what is usual and unusual.
+
+# Reference2
+
+@chouldechovaFairerMoreAccurate2017
+
+-   Summary
+The paper talks about machine learning models and their applications in multiple professional fields. More specifically, fairness and bias issues are discussed for multiple subgroups of the population.
+
+-   Reliability and relationship to the topic
+
+One of the two co-authors wrote the paper in reference 1, and the other author is an assistant professor of statistics and Data Science at Carnegie Mellon University
+
+-   Missing pieces
+
+    -   I don't understand most of the variables and formulas in the paper.
+
+    -   My knowledge of machine learning models and algorithmic fairness is not as high as those who are the intended audience of this article.
