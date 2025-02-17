@@ -1,0 +1,67 @@
+---
+title: "article-outline"
+format: html
+editor: visual
+---
+
+#1 Introduction
+-Introduces topic of Prediction-based decision making and algorithm fairness
+-Goal of Article: Summarize definitions, results, assumptions and evaluation methods in this area
+  
+#2 Choices, Assumptions, and Considerations
+-Goal of Section: to address concerns that policy goals are formulated to fit into a prediction task by linking the concerns to the policy design process.
+
+#2.1 The Policy Question
+-Highlights critical assumptions and choices that influence the design and fairness of the prediction models
+-Explains how bias and underlying motives can impact how populations are selected
+
+#2.2 The Statistical Learning Problem
+-Looks into how fairness is impacted by the choices made in the areas of Data, Predictive Models, and Evaluation while creating predictive models
+
+#2.3 Axes of Fairness and Protected Groups
+- Addresses how selection and definitions of sensitive attributes like gender and race can have implications for algorithmic fairness
+
+#3 Setup and Notation
+-Shows how mathematical formulas for fairness are set up and explains common notation. Population and Decision variables, Prediction and score notation, and Decision Functions are all described.
+
+#4 Flavors of Fairness Definitions from Data Alone
+-Outlines the section of Fairness Definitions
+
+#4.1 Unconstrained Utility Maximization and Single-Threshold Fairness
+- Main points: single-threshold fairness and unconstrained utility maximization
+-Single-Threshold Rule, Utility Maximization concepts.
+-Figure of a confusion matrix
+
+#4.2 Equal Prediction Measures
+-Discusses measures taken to assess fairness in models
+-Topics: Confusion Matrices, Making decisions based on scores
+-Fairness metrics used to ensure final decisions.
+
+#4.3 Equal Decision Measures
+-Focuses on definitions of fairness and fairness conditions such as demographic parity and conditional demographic parity
+
+#4.4 Impossibilities
+-Demonstrates impossibiites of attaining multiple fairness definitions 
+-Topics: The COMPAS Debate, Separation and Sufficiency, Incompatabilites with demographic parity
+
+#5 Flavors of Fairness Definitions incorporating Additional Context
+-Introduces fairness definitions that include more context than Y,V,S, and D.
+
+#5.1 Metric Fairness
+-Topic of metric fairness is introduced, and its assumptions are described
+
+#5.2 Casual Definitions
+-Casual Fairness is a method for understanding concept of fairness in models
+-Definitions: Individual and Conditional Counterfactual Fairness, Counterfactual Parity.
+
+#6 Ways Forward
+-Looks into ways of future improvement in algorithmic decision making and fairness.
+- Potential ways of doing so are addressed.
+-Community Involvement, Proper Goal Setting, Addresssing Assumptions
+
+#7 Conclusion
+-Emphasizes that human decision making is important in algorithmic decision making
+-Calls for a better approach for fairness in the areas of algorithmic decision making, utilizing societal factors and having a more holistic perspective
+---
+
+## 
