@@ -1,0 +1,24 @@
+---
+title: "Rhetoric"
+format: html
+editor: visual
+bibliography: references.bib
+---
+
+## Analysis of Rhetorical Decisions and Arguments
+
+Throughout the Annual Reviews article on Algorithmic Fairness, the author chooses to make arguments that she feels strongly about. She also uses different rhetorical strategies in order to be persuasive, and convey to the audience her knowledge on the subject of algorithmic fairness.
+
+One interesting rhetorical strategy that the author uses is the usage of logos. This is a useful strategy because the intended audience for this article would likely want to hear some logical reasoning behind the written arguments in order to take them seriously. The usage of mathematical theorems and formal definitions throughout sections three through five are used to support claims about fairness. By citing dozens of academic sources throughout the article, I feel that the author is using logical support that readers can take a break and explore if they so choose.
+
+One opinionated stance that the author takes is that she believes fairness challenges cannot rely on solely technical solutions, and that policy-driven intervention should be considered. She argues for a decriminalization policy by stating, "One possibility to reduce the number of people subject to a pretrial risk assessment model is to enact policies that result in fewer arrests in the first place. One such policy would be decriminalization." In another portion of the article pertaining to issues of societal biases' on data used for modeling, the author argues that "these problems (of societal bias) may not have technical solutions at all." I feel that this a valid and effective argument because it makes sense to me that the policies of the public would have an impact on the data that an algorithm would receive.
+
+In a segment of the introduction section it is mentioned that "The goal of this article is not to advance axiomatic definitions of fairness but to summarize the definitions and results in this area that have been formalized to date". I interpreted this to mean that the goal of the article was not to change our mind on a variety of topics, but rather set a standard of definitions and results that can be generally agreed upon by those doing work within the field of algorithmic fairness. This would explain the lack of opinionated stances written by the author within the article.
+
+In conclusion, the author employs various rhetorical strategies, particularly the use of logos, to establish credibility and persuade the audience. By incorporating logical reasoning, mathematical theorems, and extensive citations, she effectively supports her claims. Additionally, while the article primarily aims to summarize established definitions and findings in the field, the author does take a stance on the limitations of technical solutions alone, advocating for policy-driven interventions.
+
+## References
+
+\@mitchellAlgorithmicFairnessChoices2021
+
+[@mitchell2021]
